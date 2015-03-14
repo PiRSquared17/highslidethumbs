@@ -1,0 +1,1 @@
+HighslideThumbs is a fancy-looking image viewer for MediaWiki.
